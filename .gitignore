@@ -1,8 +1,5 @@
-HELP.md
 .gradle
 build/
-.codex/
-.planning/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**/build/
 !**/src/test/**/build/
@@ -40,3 +37,5 @@ out/
 
 *.txt
 *.log
+### Claude Code ###
+.claude/settings.local.json
